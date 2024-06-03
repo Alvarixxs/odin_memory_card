@@ -6,7 +6,7 @@ export default {
   ],  theme: {
     extend: {
       backgroundImage: {
-        'aot': "url('./src/resources/aot.jpg')",
+        'aot': "url('/aot.jpg')",
       }
     },
   },
