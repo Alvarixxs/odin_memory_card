@@ -1,5 +1,6 @@
 import {useEffect, useState} from 'react'
 import Cards from "./Cards.jsx";
+import AOT from '../resources/aot.jpg'
 
 function App() {
   const [currentScore, setCurrentScore] = useState(0)
